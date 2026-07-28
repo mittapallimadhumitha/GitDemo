@@ -1,0 +1,3 @@
+Welcome to Git Demo Project
+Learning Git commands using Git Bash
+This is my first Git repository
